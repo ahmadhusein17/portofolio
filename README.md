@@ -1,5 +1,5 @@
 <h1>🔭 My Portofolio</h1>
-<p>Assalamualaikum, bismillah ini project pertama saya semoga kedepannya saya akan share beberapa project di github ini</>
+<p>Assalamualaikum, bismillah ini project pertama saya semoga kedepannya saya akan share beberapa project di github ini</p>
 
 <!--
 **ahmadhusein17/ahmadhusein17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
